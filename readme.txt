@@ -12,7 +12,7 @@ Adds sections and new features to Thorium WordPress theme. 6 sections (Services,
 
 == Description ==
 
-Adds sections and new features to Thorium WordPress theme. 6 sections (Services, Portfolio, About Us, Team, Clients, Contact) are included to make your homepage look awesome. You can download <a href="http://www.acosmin.com/theme/businessx/?utm_source=wporg&utm_medium=readme&utm_campaign=bx_plugin_page" title="Download Thorium WordPress Theme" rel="friend">Thorium WordPress theme</a> from here.
+Adds sections and new features to Thorium WordPress theme. 6 sections (Services, Portfolio, About Us, Team, Clients, Contact) are included to make your homepage look awesome.
 
 == Changelog ==
 
